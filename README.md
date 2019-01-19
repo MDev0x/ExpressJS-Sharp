@@ -12,3 +12,7 @@ git clone https://github.com/MDev0x/ExpressJS-Sharp
 ```
 npm i
 ```
+
+```
+node index
+```
