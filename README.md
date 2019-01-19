@@ -16,3 +16,7 @@ npm i
 ```
 node index
 ```
+
+```
+go to localhost:3000/img/width/height
+```
