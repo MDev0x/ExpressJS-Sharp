@@ -6,7 +6,7 @@ GET Image from url with width and height values
 # Installation
 
 ```
-git clone https://github.com/MDev0x/ExpressJS-Sharp
+git clone https://github.com/afulsamet/ExpressJS-Sharp
 ```
 
 ```
