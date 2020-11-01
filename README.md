@@ -1,4 +1,4 @@
-# ExpressJS-Sharp
+# Express.js with Sharp
 GET Image from url with width and height values
 
 ![alt text](https://s.put.re/T8QdHDbf.png)
@@ -6,7 +6,7 @@ GET Image from url with width and height values
 # Installation
 
 ```
-git clone https://github.com/afulsamet/ExpressJS-Sharp
+git clone https://github.com/afulsamet/express-js-sharp
 ```
 
 ```
